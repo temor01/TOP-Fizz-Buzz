@@ -21,3 +21,5 @@ for (let i = 1; i <= answer; i++) {
         console.log(i);
     }
 }
+
+// This program was writting thanks to The Odin Project.
